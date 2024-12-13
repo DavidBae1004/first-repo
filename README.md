@@ -1,5 +1,21 @@
 # first-repo
 
+# Do it yourself
+- feat: Create adder.py
+- feat: Add Feature - Return sum of 2 numbers (add fundtion)
+- fix: Rename Function add to adder
+
+# Code
+'''python
+
+def adder(a, b):
+    return a+b
+
+if __name__ == '__main__':
+    print(adder(3,4))
+'''
+
+
 ## Index
 
 ## My Favorite python libraries
@@ -9,10 +25,7 @@
 - fastAPI
 
 
-# How to-
-- Execute the git bash commands on the terminal
-- Set up the global parameter
-
+# Preparation
 For the practice 
 1. create the gibhub ID
 2. install the gib for windows sw
@@ -30,6 +43,9 @@ if __name__ == '__main__':
 
 
 # Related site
+
+![](https://www.cup.ac.kr/common/front/home/images/sub/img_organ48_01.jpg)
+
 [pip installation] (https://heytech.tistory.com/318)
 
 
